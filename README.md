@@ -8,3 +8,12 @@ This is a list:
 - item1
 - item2
 - item3
+
+
+# Project Structure
+
+/data/
+student.py (studentmodule)
+course.py
+main.py
+
